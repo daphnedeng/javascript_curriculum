@@ -79,3 +79,4 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Fabio Oliveira's solution](https://github.com/ffabiorj/rock_paper_scissors) - [View in browser](https://cdn.rawgit.com/ffabiorj/rock_paper_scissors/dab5e260/index.html)
 - [Franklyn Afeso's solution](https://github.com/afeso/janken)
 - [Matt Hagner's solution](https://github.com/hagnerd/rock-paper-scissors) - [View in browser](https://hagnerd.github.io/rock-paper-scissors/)
+- [Daphne's solution](https://github.com/daphnedeng/daphnedeng.github.io/tree/master/odin/RockPaperScissors) - [View in browser](https://daphnedeng.github.io/odin/RockPaperScissors/index.html)
